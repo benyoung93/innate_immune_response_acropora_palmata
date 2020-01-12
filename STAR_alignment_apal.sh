@@ -33,6 +33,6 @@ echo '/nethome/bdy8/Ben_Xaymara_GE_project/programs/STAR \
 --outSAMstrandField intronMotif \
 --twopassMode Basic \
 --twopass1readsN -1 \
---outFileNamePrefix /scratch/projects/transcriptomics/ben_young/apalm_v2/aligned_apal/'"$PALPAL"'/'"$PALPAL"'_' >> /scratch/projects/transcriptomics/ben_young/apalm_v2/scripts/star_scripts/"$PALPAL"_alignment.sh
+--outFileNamePrefix /scratch/projects/transcriptomics/ben_young/apalm_v2/aligned_apal/'"$PALPAL"'/'"$PALPAL"'_' >> /scratch/projects/transcriptomics/ben_young/apalm_v2/scripts/star_scripts/"$PALPAL"_alignment.sh #for alignment to symb
 bsub < /scratch/projects/transcriptomics/ben_young/apalm_v2/scripts/star_scripts/"$PALPAL"_alignment.sh
 done
