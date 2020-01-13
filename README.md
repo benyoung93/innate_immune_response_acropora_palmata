@@ -9,6 +9,6 @@ STAR_index_apal.sh \
 STAR_alignment_apal.sh \
 SALMON_quant_apal.sh \
 STAR_alignment_symb.sh \
-SALMON_quant_symb.sh \
+SALMON_quant_symb.sh
 
 13th Jan - Uploaded scripts used on supercomputer, I will be refining and making more concise in the near future. 
