@@ -12,3 +12,5 @@ STAR_alignment_symb.sh \
 SALMON_quant_symb.sh
 
 13th Jan - Uploaded scripts used on supercomputer, I will be refining and making more concise in the near future. 
+
+ALIB scripts are for the reannotation of Libro & Vollmer 2013. Project number to access raw reads is in manuscript. 
