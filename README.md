@@ -1,5 +1,8 @@
-# apal_disease_transcritpomics
-All scripts for transcriptomic analysis of healthy and diseased Acropora palmata in 2016 and 2017 disease challenge experiments from Miller et al (2019). 
+# Innate Immune Response of *Acropora palmata*
+Analysis scripts for the transcriptomic disease response of *Acropora palmata*
+Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228514 
+
+
 
 File names are PROGRAM_process_organism (e.g. STAR_alignment_apal)
 
@@ -11,6 +14,6 @@ SALMON_quant_apal.sh \
 STAR_alignment_symb.sh \
 SALMON_quant_symb.sh
 
-13th Jan - Uploaded scripts used on supercomputer, I will be refining and making more concise in the near future. 
 
-ALIB scripts are for the reannotation of Libro & Vollmer 2013. Project number to access raw reads is in manuscript. 
+
+ALIB scripts are for the reannotation of Libro & Vollmer 2013. Project number to access raw reads is in manuscript.
