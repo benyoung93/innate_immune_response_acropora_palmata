@@ -1,8 +1,9 @@
-# Innate Immune Response of *Acropora palmata*
+# Innate immune gene expression in *Acropora palmata* is consistent despite variance in yearly disease events
 Analysis scripts for the transcriptomic disease response of *Acropora palmata*.  
-NCBI project for raw data - https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA529682  
 Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228514   
+NCBI project for raw data - https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA529682  
 *Acropora palmata* & *Acropora cervicornis* genomes - http://baumslab.org/research/data/  
+Symbiodinium genome paper - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035269  
   
 Scripts for identified steps are shown as  
 - [script_name]  
