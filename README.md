@@ -4,6 +4,8 @@ NCBI project for raw data - https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA5
 Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228514   
 *Acropora palmata* & *Acropora cervicornis* genomes - http://baumslab.org/research/data/  
   
+Scripts for identified steps are shown as -[script_name]  
+  
 ## *Acropora palmata* Pipeline  
 ### Pre-processing Pipeline (Unix)
 1. Trimming - Trimmomatic    
@@ -15,7 +17,7 @@ Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.
 - SALMON_quant_apal.sh  
   
 ### Transcriptomic Analysis (r and RStudio)  
-- apal_transcriptomic_analysis
+- apal_transcriptomic_analysis  
 This includes all steps after step 3 above. Code for figure parts are labelled in chunk headers. General pipeline is as follows.  
 1. Pre analysis low gene filtering  
 2. Principal component analysis  
