@@ -17,13 +17,13 @@ Scripts for identified steps are shown as -[script_name]
 - SALMON_quant_apal.sh  
   
 ### Transcriptomic Analysis (r and RStudio)  
-- apal_transcriptomic_analysis  
-
+- apal_transcriptomic_analysis.  
+  
 This includes all steps after step 3 above. Code for figure parts are labelled in chunk headers. General pipeline is as follows.  
 1. Pre analysis low gene filtering  
 2. Principal component analysis  
 3. Genes driving PC1 GO analysis  
-3. Differtial gene expression analysis for health states (Baseline, No Transmission, Transmission)  
+3. Differential gene expression analysis for health states (Baseline, No Transmission, Transmission)  
 4. GO analysis of differential expression results  
 5. WGCNA analysis  
 6. GO analysis of WGCNA modules  
@@ -35,7 +35,7 @@ This includes all steps after step 3 above. Code for figure parts are labelled i
 2. Quantification - Salmon  
 - SALMON_quant_symb.sh  
   
-###
+### Transcriptomic Analysis (r and RStudio)
 
 
 
