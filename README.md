@@ -19,7 +19,7 @@ Scripts for identified steps are shown as
 - SALMON_quant_apal.sh  
   
 ### Transcriptomic Analysis (r and RStudio)  
-- apal_transcriptomic_analysis.  
+- apal_transcriptomic_analysis.Rmd  
   
 This includes all steps after step 3 above. Code for figure parts are labelled in chunk headers. General pipeline is as follows.  
 1. Pre analysis low gene filtering  
@@ -38,9 +38,10 @@ This includes all steps after step 3 above. Code for figure parts are labelled i
 - SALMON_quant_symb.sh  
   
 ### Transcriptomic Analysis (r and RStudio)
+- apal_symb_transcriptomic_analysis.Rmd  
+  
+This is a little messy I need to go through and fix this. 
 
 
 
 
-
-ALIB scripts are for the reannotation of Libro & Vollmer 2013. Project number to access raw reads is in manuscript.
