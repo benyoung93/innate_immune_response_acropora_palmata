@@ -18,6 +18,7 @@ Scripts for identified steps are shown as -[script_name]
   
 ### Transcriptomic Analysis (r and RStudio)  
 - apal_transcriptomic_analysis  
+
 This includes all steps after step 3 above. Code for figure parts are labelled in chunk headers. General pipeline is as follows.  
 1. Pre analysis low gene filtering  
 2. Principal component analysis  
