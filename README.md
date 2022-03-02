@@ -4,7 +4,8 @@ NCBI project for raw data - https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA5
 Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228514   
 *Acropora palmata* & *Acropora cervicornis* genomes - http://baumslab.org/research/data/  
   
-Scripts for identified steps are shown as -[script_name]  
+Scripts for identified steps are shown as  
+- [script_name]  
   
 ## *Acropora palmata* Pipeline  
 ### Pre-processing Pipeline (Unix)
