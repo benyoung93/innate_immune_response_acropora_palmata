@@ -1,5 +1,5 @@
 # Innate Immune Response of *Acropora palmata*
-Analysis scripts for the transcriptomic disease response of *Acropora palmata*
+Analysis scripts for the transcriptomic disease response of *Acropora palmata*.  
 Publication - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0228514 
 
 
